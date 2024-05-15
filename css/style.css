@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(85, 203, 0); 
+}
+
+h1{
+  background-color: burlywood; 
+}
+
+h2{
+  background-color: slateblue; 
+}
+
+#p-1 { 
+  background-color: goldenrod; 
+}
+#p-2 {
+  background-color: plum; 
+}
+#element-1 {
+  color: violet;
+}
+#element-2 {
+  color: blue;
+}
+#element-3 {
+  color: green;
+}
+#element-4 {
+  color: yellow;
+}
+#element-5 {
+  color: red;
+}
